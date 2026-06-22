@@ -1,0 +1,21 @@
+# Program Explanations
+
+## 1. Student Marks Analyzer
+
+This program accepts marks of five students and stores them in a list (Python) or array (C). It calculates the highest mark, lowest mark, and average mark using built-in functions and loops. This demonstrates basic data storage and analysis.
+
+## 2. Employee Record Search
+
+This program stores employee names in a list or array and allows the user to search for a specific employee. It performs a linear search and displays whether the record is found or not. This demonstrates searching techniques.
+
+## 3. Number Statistics Tool
+
+This program accepts ten numbers from the user and calculates the largest number, smallest number, total sum, average, and counts the even and odd numbers. It demonstrates numerical data processing and analysis.
+
+## 4. Cyber Security Log Analyzer
+
+This program stores a list of successful and failed login attempts. It counts the total login attempts, successful logins, and failed logins. Monitoring failed logins is important because it helps identify brute-force attacks and unauthorized access attempts.
+
+## 5. Blacklisted IP Checker
+
+This program stores a list of blacklisted IP addresses. The user enters an IP address, and the program checks whether it exists in the blacklist. This simulates a simple security monitoring system used in cybersecurity.

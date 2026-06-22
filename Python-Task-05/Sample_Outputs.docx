@@ -1,0 +1,80 @@
+# Sample Outputs
+
+## Program 1 – Student Marks Analyzer
+
+Input:
+78
+85
+92
+67
+88
+
+Output:
+Highest Marks: 92
+Lowest Marks: 67
+Average Marks: 82.0
+
+---
+
+## Program 2 – Employee Record Search
+
+Input:
+Alice
+
+Output:
+Record Found
+
+Input:
+Kevin
+
+Output:
+Record Not Found
+
+---
+
+## Program 3 – Number Statistics Tool
+
+Input:
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+
+Output:
+Largest Number: 100
+Smallest Number: 10
+Sum: 550
+Average: 55.0
+Even Numbers: 10
+Odd Numbers: 0
+
+---
+
+## Program 4 – Cyber Security Log Analyzer
+
+Output:
+Total Attempts: 6
+Successful Logins: 3
+Failed Logins: 3
+
+---
+
+## Program 5 – Blacklisted IP Checker
+
+Input:
+192.168.1.10
+
+Output:
+IP Found in Blacklist
+
+Input:
+8.8.8.8
+
+Output:
+IP Not Found

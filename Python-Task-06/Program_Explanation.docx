@@ -1,0 +1,39 @@
+# Program Explanation
+
+## Student Cyber Security Management System
+
+This project is a menu-driven application developed using Python and C Programming.
+
+### Modules
+
+1. Add Student
+   Stores student details such as Student ID, Name, Branch, and Email Address.
+
+2. View Students
+   Displays all available student records.
+
+3. Search Student
+   Searches a student using Student ID or Name.
+
+4. Delete Student
+   Deletes a student record from the system.
+
+5. Security Assessment
+   Evaluates the student's cybersecurity practices based on:
+
+* MFA Enabled
+* Password Length
+* System Updated
+* Antivirus Installed
+
+It generates a security score and displays the security status.
+
+6. Generate Report
+   Displays:
+
+* Total Students
+* Security Scores
+* Average Security Score
+* Students with Poor Security Ratings
+
+The project demonstrates arrays/lists, functions, loops, conditions, searching, and file handling while applying basic cybersecurity concepts.

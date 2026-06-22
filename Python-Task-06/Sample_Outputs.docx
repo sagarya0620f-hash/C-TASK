@@ -1,0 +1,67 @@
+=============================
+Student Cyber Security Manager
+=============================
+
+1. Add Student
+2. View Students
+3. Search Student
+4. Delete Student
+5. Security Assessment
+6. Generate Report
+7. Exit
+
+Enter Choice: 1
+
+Student ID: 106
+Name: Aman Verma
+Branch: CSE
+Email: aman@example.com
+
+Student Added Successfully.
+Enter Choice: 2
+
+ID: 101
+Name: Soham Patel
+Branch: CSE
+Email: soham@example.com
+
+ID: 102
+Name: Priya Sharma
+Branch: IT
+Email: priya@example.com
+Enter Choice: 3
+
+Enter Student ID: 101
+
+Record Found
+
+ID: 101
+Name: Soham Patel
+Branch: CSE
+Email: soham@example.com
+Enter Choice: 4
+
+Enter Student ID: 105
+
+Student Deleted Successfully.
+Enter Choice: 5
+
+Is MFA Enabled? y
+Password Length: 12
+System Updated? y
+Antivirus Installed? y
+
+Security Score: 100/100
+
+Status: Excellent
+Enter Choice: 6
+
+====== REPORT ======
+
+Total Students: 5
+
+Average Security Score: 90
+
+Students with Poor Security Ratings: 0
+
+====================

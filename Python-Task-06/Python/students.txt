@@ -1,0 +1,5 @@
+101,Soham Patel,CSE,[soham@example.com](mailto:soham@example.com)
+102,Priya Sharma,IT,[priya@example.com](mailto:priya@example.com)
+103,Rahul Kumar,ECE,[rahul@example.com](mailto:rahul@example.com)
+104,Ananya Das,CSE,[ananya@example.com](mailto:ananya@example.com)
+105,Rohan Singh,EEE,[rohan@example.com](mailto:rohan@example.com)
