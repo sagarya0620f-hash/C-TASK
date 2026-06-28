@@ -1,0 +1,54 @@
+========== Employee Management System ==========
+
+1. Add Employee
+2. View Employees
+3. Search Employee
+4. Update Employee
+5. Delete Employee
+6. Salary Statistics
+7. Export to CSV
+8. Read CSV
+9. Department-wise Employee Count
+10. Sort Employees by Salary
+11. Exit
+
+Enter Your Choice: 1
+
+===== Add Employee =====
+
+Enter Employee ID: 106
+Enter Employee Name: Akash
+Enter Department: IT
+Enter Designation: Software Engineer
+Enter Salary: 60000
+
+Employee Added Successfully!
+
+Enter Your Choice: 2
+
+---------------------------------------------------------------------------
+ID        Name                Department     Designation        Salary
+---------------------------------------------------------------------------
+106       Akash               IT             Software Engineer  60000.0
+
+Enter Your Choice: 6
+
+===== Salary Statistics =====
+Highest Salary : 60000.0
+Lowest Salary  : 60000.0
+Average Salary : 60000.0
+Total Employees: 1
+
+Enter Your Choice: 7
+
+Employee Data Exported Successfully!
+
+Enter Your Choice: 8
+
+===== Employee Records from CSV =====
+Employee ID,Name,Department,Designation,Salary
+106,Akash,IT,Software Engineer,60000.0
+
+Enter Your Choice: 11
+
+Thank You!

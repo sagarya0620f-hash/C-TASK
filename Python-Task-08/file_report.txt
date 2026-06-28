@@ -1,0 +1,45 @@
+===== Smart File Organizer Report =====
+Date : 2026-06-28 09:51:05.041828
+Folder : D:\PYTHON-TASK\Python-Task-08
+Total Files : 6
+
+Category-wise Count
+---------------------------
+Images : 0
+Documents : 3
+Videos : 0
+Audio : 0
+Archives : 1
+Programs : 1
+Others : 1
+
+Duplicate Files
+---------------------------
+No Duplicate Files Found
+
+Organized Folder Structure
+---------------------------
+
+Archives
+   archive.zip
+
+Documents
+   file_report.txt
+   Project_Report_Task_8.pdf
+   requirements.txt
+
+Others
+   README.md
+
+Programs
+   smart_file_organizer.py
+
+Sample_Test_Folder
+   data.csv
+   movie.mp4
+   notes.docx
+   photo.jpg
+   resume.pdf
+   song.mp3
+
+Screenshots

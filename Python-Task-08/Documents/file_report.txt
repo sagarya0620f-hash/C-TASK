@@ -1,0 +1,53 @@
+===== Smart File Organizer Report =====
+
+Date : 28-06-2026
+
+Folder Name :
+Sample_Test_Folder
+
+Total Files : 8
+
+----------------------------------------
+Category-wise Count
+----------------------------------------
+
+Images      : 1
+Documents   : 3
+Videos      : 1
+Audio       : 1
+Archives    : 1
+Programs    : 1
+Others      : 0
+
+----------------------------------------
+Duplicate Files
+----------------------------------------
+
+No Duplicate Files Found
+
+----------------------------------------
+Organized Folder Structure
+----------------------------------------
+
+Images
+    photo.jpg
+
+Documents
+    resume.pdf
+    notes.docx
+    data.csv
+
+Videos
+    movie.mp4
+
+Audio
+    song.mp3
+
+Archives
+    archive.zip
+
+Programs
+    setup.exe
+
+Others
+    No Files
